@@ -1,16 +1,14 @@
-## Hi there 👋
+## I'm ss0832.
 
-<!--
-**ss0832/ss0832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Personal Page
+- https://ss0832.github.io/
 
-Here are some ideas to get you started:
+### My Projects
+- https://github.com/ss0832/MultiOptPy
+- https://github.com/ss0832/SubstituentSubstitution
+- https://github.com/ss0832/SubstituteLigands
+- https://github.com/ss0832/molecule_viewer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+`echo 'aGlnaGxpZ2h0eTg3NlthdF1nbWFpbC5jb20=' | base64 -d`
