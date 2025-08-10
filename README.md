@@ -1,5 +1,7 @@
 ## I'm ss0832.
 
+I am specializing in computational chemistry in the field of physical chemistry.
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ss0832&theme=algolia)
 
 ### Personal Page
