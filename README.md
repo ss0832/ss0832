@@ -13,6 +13,7 @@ I am specializing in computational chemistry in the field of physical chemistry.
 - https://github.com/ss0832/SubstituteLigands
 - https://github.com/ss0832/molecule_viewer
 - https://github.com/ss0832/molecule_movie
+- https://github.com/ss0832/molecule_editor
 - https://github.com/ss0832/ASE_BlockBFGS
 
 ### Contact
