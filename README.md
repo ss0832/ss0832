@@ -1,7 +1,5 @@
 ## I'm ss0832.
 
-I am specializing in computational chemistry in the field of physical chemistry.
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ss0832&theme=algolia)
 
 ### Personal Page
@@ -14,7 +12,7 @@ I am specializing in computational chemistry in the field of physical chemistry.
 - https://github.com/ss0832/molecule_viewer
 - https://github.com/ss0832/molecule_movie
 - https://github.com/ss0832/molecule_editor
-- https://github.com/ss0832/ASE_BlockBFGS
+
 
 ### Contact
 
