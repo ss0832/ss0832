@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ss0832&theme=algolia)
 
 ### Personal Page
-- https://ss0832.github.io/
+- https://ss0832-github-io.pages.dev/
 
 ### My Repositories
 - https://github.com/ss0832/MultiOptPy
