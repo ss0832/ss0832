@@ -8,6 +8,7 @@
 ### Product
 - https://github.com/ss0832/MultiOptPy
 - https://github.com/ss0832/ASE_AFIR
+- https://github.com/ss0832/molecule_editor
 
 ### Contact
 
