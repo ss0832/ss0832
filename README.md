@@ -11,6 +11,7 @@
     - (test results) https://github.com/ss0832/mop_mapper_test
 - https://github.com/ss0832/ASE_AFIR
 - https://github.com/ss0832/molecule_editor
+- https://github.com/ss0832/SubstituentSubstitution
 
 ### Contact
 
