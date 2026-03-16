@@ -5,7 +5,7 @@
 ### Personal Page
 - https://ss0832-github-io.pages.dev/
 
-### Product
+### Products
 - https://github.com/ss0832/MultiOptPy
     - (Docker image) https://github.com/ss0832/mop_docker_image
     - (test results) https://github.com/ss0832/mop_mapper_test
