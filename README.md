@@ -12,6 +12,7 @@
 - https://github.com/ss0832/ASE_AFIR
 - https://github.com/ss0832/molecule_editor
 - https://github.com/ss0832/SubstituentSubstitution
+- https://github.com/ss0832/PASTED
 
 ### Contact
 
