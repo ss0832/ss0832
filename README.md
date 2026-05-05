@@ -6,15 +6,7 @@
 - https://ss0832-github-io.pages.dev/
 
 ### Products
-<a href="https://github.com/ss0832/MultiOptPy">
-  <img src="https://opengraph.githubassets.com/1/ss0832/MultiOptPy" width="400" alt="MultiOptPy Repo Card" />
-</a>
-<ul>
-  <li>(Docker image) <a href="https://github.com/ss0832/mop_docker_image">https://github.com/ss0832/mop_docker_image</a></li>
-  <li>(test results) <a href="https://github.com/ss0832/mop_mapper_test">https://github.com/ss0832/mop_mapper_test</a></li>
-</ul>
 
-<br />
 
 <a href="https://github.com/ss0832/ASE_AFIR">
   <img src="https://opengraph.githubassets.com/1/ss0832/ASE_AFIR" width="400" alt="ASE_AFIR Repo Card" />
