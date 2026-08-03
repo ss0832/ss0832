@@ -36,16 +36,19 @@
 
 <br />
 
-<a href="https://github.com/ss0832/Rust-DFTB">
-  <img src="https://opengraph.githubassets.com/1/ss0832/Rust-DFTB" width="400" alt="Rust-DFTB Repo Card" />
-</a>
-
 <a href="https://github.com/ss0832/ASE_RSIRFO">
   <img src="https://opengraph.githubassets.com/1/ss0832/ASE_RSIRFO" width="400" alt="ASE_RSIRFO Repo Card" />
 </a>
 
 <br />
 
+- https://github.com/ss0832/pm3-rs
+- https://github.com/ss0832/pm6-rs
+- https://github.com/ss0832/pm7-rs
+- https://github.com/ss0832/am1-rs
+- https://github.com/ss0832/gfn0-rs
+- https://github.com/ss0832/gfn1-rs
+- https://github.com/ss0832/gfn2-rs
 
 ### Contact
 
