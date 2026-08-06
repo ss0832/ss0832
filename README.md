@@ -46,6 +46,7 @@
 - https://github.com/ss0832/pm6-rs
 - https://github.com/ss0832/pm7-rs
 - https://github.com/ss0832/am1-rs
+- https://github.com/ss0832/dftb-rs
 - https://github.com/ss0832/gfn0-rs
 - https://github.com/ss0832/gfn1-rs
 - https://github.com/ss0832/gfn2-rs
