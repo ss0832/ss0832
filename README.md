@@ -44,6 +44,7 @@
 
 <br />
 
+- https://github.com/ss0832/MultiOptPy
 - https://ss0832.github.io/molecule_editor/
 - https://github.com/ss0832/pm3-rs
 - https://github.com/ss0832/pm6-rs
