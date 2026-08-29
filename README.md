@@ -60,3 +60,7 @@
 ### Contact
 
 `echo 'aGlnaGxpZ2h0eTg3NlthdF1nbWFpbC5jb20=' | base64 -d`
+
+### Notice
+
+These are personal experimental projects. Please do not feature or promote them in the media without permission.
