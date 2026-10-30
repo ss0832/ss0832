@@ -56,6 +56,7 @@
 - https://github.com/ss0832/gfn0-rs
 - https://github.com/ss0832/gfn1-rs
 - https://github.com/ss0832/gfn2-rs
+- https://github.com/ss0832/hf-rs
 
 ### Contact
 
