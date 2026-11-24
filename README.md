@@ -15,8 +15,8 @@
 
 
 
-<a href="https://github.com/ss0832/SubstituentSubstitution">
-  <img src="https://opengraph.githubassets.com/1/ss0832/SubstituentSubstitution" width="400" alt="SubstituentSubstitution Repo Card" />
+<a href="https://github.com/ss0832/mopt-rs">
+  <img src="https://opengraph.githubassets.com/1/ss0832/mopt-rs" width="400" alt="mopt-rs Repo Card" />
 </a>
 
 <br />
