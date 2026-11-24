@@ -45,6 +45,7 @@
 <br />
 
 - https://github.com/ss0832/MultiOptPy
+- https://github.com/ss0832/mopt-rs
 - https://ss0832.github.io/molecule_editor/
 - https://github.com/ss0832/mmff-rs
 - https://github.com/ss0832/xndo-rs
